@@ -2,10 +2,11 @@
 <%@ taglib uri="/WEB-INF/struts-html.tld" prefix="html" %>
 <%@ taglib uri="/WEB-INF/struts-bean.tld" prefix="bean" %>
 
+<!-- Test commit -->
 <html>
 <head>
     <title>
-        <bean:message key="app.webTitle"/>
+        <bean:message key="app.webTitle"/> 
     </title>
     <script type="text/javascript">
         function resetForm() {
